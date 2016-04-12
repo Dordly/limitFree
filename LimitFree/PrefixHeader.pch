@@ -1,0 +1,30 @@
+//
+//  PrefixHeader.pch
+//  LimitFree
+//
+//  Created by Apple on 16/3/29.
+//  Copyright © 2016年 Dordly. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <AFNetworking.h>
+#import <UIImageView+WebCache.h>
+#import <DateTools.h>
+#import <FMDB.h>
+#import <MJRefresh.h>
+#import <YYModel.h>
+#import <MBProgressHUD.h>
+#import <Masonry.h>
+#import <KVNProgress.h>
+
+//定义的所有接口
+#import "Define.h"
+#import "AFHTTPSessionManager+LimitFree.h"
+#import "MBProgressHUDManager.h"
+
+//宏定义
+#import "3partyMacro.h"
+
+#endif /* PrefixHeader_pch */

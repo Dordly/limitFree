@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  LimitFree
+
+  Created by Apple on 16/4/9.
+  Copyright © 2016年 Dordly. All rights reserved.
+*/
+
+//prefix-前缀为key，后缀为值
+CFBundleDisplayName = "LimitFree";
+
